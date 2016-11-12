@@ -1,4 +1,4 @@
-package org.eclipse.che.examples;
+package org.sdoro.examples;
 
 public class Ciao {
     static public void main (String[]a){
